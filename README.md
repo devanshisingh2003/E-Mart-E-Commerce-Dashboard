@@ -3,6 +3,7 @@
 An interactive Power BI dashboard analyzing E-Mart's e-commerce sales performance across states, product categories, customers, and payment modes, with quarter-by-quarter drill-down.
 
 ![Dashboard Screenshot](BI-1.jpg)
+### Quarter Filter View ![Quarter View](BI-4.jpg)  State-Level Drill-Down ![State Filter View](BI-6.jpg)
 
 ## Overview
 This project combines order-level data (customer, location, date) with transaction-level details (amount, profit, quantity, category) to surface key business metrics — Average Order Value (AOV), total profit, quantity sold, and revenue — segmented by state, customer, product category, sub-category, and payment mode.
